@@ -14,8 +14,8 @@ Python 3.6 veya üzeri sürümünün yüklü olması gerekmektedir. Aracı kulla
 
 1. Bu reposu klonlayın:
     ```bash
-    git clone https://github.com/kullanici_adiniz/python-stres-testi.git
-    cd python-stres-testi
+    git clone https://github.com/Oxcanga/StrainStrider.git
+    cd StrainStrider
     ```
 
 2. Gerekli bağımlılıkları yükleyin:
